@@ -24,11 +24,17 @@ Python 3.x
 turtle module (pre-installed with Python)
 # Project Structure 📂
 snake-game/
+
 │
+
 ├── game.py       # Main game logic and loop
+
 ├── snake.py      # Snake behavior and controls
+
 ├── food.py       # Food generation logic
+
 ├── score.py      # Score display and updates
+
 └── README.md     # Project documentation
 # Credits 🙌
 Developed by [Anit Paul]
