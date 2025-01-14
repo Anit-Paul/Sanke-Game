@@ -38,6 +38,6 @@ snake-game/
 └── README.md     # Project documentation
 # Credits 🙌
 Developed by [Anit Paul]
-Passionate about Python and game development. 🎮
+Passionate about Python and development. 
 
 Feel free to contribute or share feedback to make this game even better!
