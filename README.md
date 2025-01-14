@@ -33,7 +33,7 @@ snake-game/
 
 ├── food.py       # Food generation logic
 
-├── score.py      # Score display and updates
+├── scoreboard.py      # Score display and updates
 
 └── README.md     # Project documentation
 # Credits 🙌
